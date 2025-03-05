@@ -23,8 +23,7 @@
 ---
 
 ## 🏆 Achievements  
-✅ **Built a portfolio chatbot** using **LLMs & Pinecone**, capable of answering HR-specific queries.  
-⚡ **Led a team** at **Dpanda** to optimize frontend performance, reducing page load time by **40%**.  
+✅ **Built a portfolio chatbot** using **LLMs & Pinecone**, capable of answering HR-specific queries.   
 💡 Created **StockStream**, a real-time stock price tracking app with **mock data visualization**.  
 🛍️ Developed **Qkart**, an e-commerce platform with authentication, cart, and payment integration.  
 
